@@ -1,0 +1,23 @@
+@import url(https://db.onlinewebfonts.com/c/7a9ddc1b445c1713f7ad1cf3de47edd7?family=Agency+FB);
+
+* {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+    font-family: 'Agency FB', sans-serif;
+    color: #fff;
+    font-weight: 700;
+    font-size: 18px;
+}
+
+.main {
+    background-color: #20B2FF;
+    padding-top: 20px;
+    padding-bottom: 50px;
+}
+
+.focus-time {
+   text-align: center;
+   margin-bottom: 30px;
+   font-size: 24px;
+}
